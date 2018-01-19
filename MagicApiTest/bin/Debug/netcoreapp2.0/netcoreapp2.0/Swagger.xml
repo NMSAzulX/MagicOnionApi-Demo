@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MagicApiTest</name>
+    </assembly>
+    <members>
+        <member name="M:MagicApiTest.Rpc.Model.ITest.GetStudent(System.Int32)">
+            <summary>
+            获取一个活的学生
+            </summary>
+            <param name="sid">学生id</param>
+            <returns>一个鲜活的学生</returns>
+        </member>
+    </members>
+</doc>
